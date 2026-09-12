@@ -1,0 +1,11 @@
+patient_id,age,gender,height_cm,weight_kg,diagnosis,calories,protein_g,activity_level,follow_up_date,height_m,bmi,bmi_category
+1001,22,Female,165,58,PCOS,1800,90,Moderate,2026-09-01,1.65,21.30394857667585,Normal
+1002,35,Male,178,85,Diabetes,2200,110,Low,2026-09-03,1.78,26.82742078020452,Overweight
+1003,28,Female,160,62,PCOS,1900,85,Moderate,2026-09-05,1.6,24.218749999999996,Normal
+1004,45,Male,172,92,Hypertension,2000,100,Low,2026-09-07,1.72,31.09789075175771,Obese
+1005,19,Female,168,50,Healthy,2100,95,High,2026-09-09,1.68,17.71541950113379,Underweight
+1006,52,Female,158,78,Diabetes,1700,80,Low,2026-09-10,1.58,31.244992789617044,Obese
+1007,31,Male,180,95,Obesity,2300,120,Moderate,2026-09-11,1.8,29.320987654320987,Overweight
+1008,40,Female,162,70,PCOS,1800,90,Moderate,2026-09-12,1.62,26.672763298277697,Overweight
+1009,26,Male,175,82,Hypertension,2100,105,High,2026-09-13,1.75,26.775510204081634,Overweight
+1010,60,Female,155,68,Diabetes,1600,75,Low,2026-09-14,1.55,28.303850156087407,Overweight
