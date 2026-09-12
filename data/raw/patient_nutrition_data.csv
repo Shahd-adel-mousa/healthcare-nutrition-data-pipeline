@@ -1,0 +1,14 @@
+
+patient_id,age,gender,height_cm,weight_kg,diagnosis,calories,protein_g,activity_level,follow_up_date
+P001,24,F,165,62,PCOS,1800,90,Moderate,2026-08-01
+P002,31,F,158,78,Diabetes,1600,85,Low,2026-08-02
+P003,27,M,178,82,Obesity,2200,120,High,2026-08-03
+P004,22,F,163,58,PCOS,1900,95,Moderate,2026-08-04
+P005,40,M,175,95,Hypertension,2000,110,Low,2026-08-05
+P006,29,F,160,70,Diabetes,1700,90,Moderate,2026-08-06
+P007,35,F,168,85,Obesity,2100,100,Low,2026-08-07
+P008,26,M,180,75,None,2500,130,High,2026-08-08
+P009,33,F,155,68,PCOS,1800,88,Moderate,2026-08-09
+P010,45,M,172,90,Hypertension,2100,115,Low,2026-08-10
+P011,28,F,162,60,PCOS,1850,92,Moderate,2026-08-11
+P012,38,M,185,105,Obesity,2300,125,Low,2026-08-12
